@@ -1,0 +1,27 @@
+.color-me-blue {
+  color: blue;
+}
+
+.large-text {
+  font-size: 5em;
+}
+
+.add-border {
+  border: 2px solid pink;
+}
+
+.rounded {
+  border-radius: 20%;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.italic-text {
+  font-style: italic;
+}
+
+.display-block-class {
+  display: block;
+}
